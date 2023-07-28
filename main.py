@@ -1,6 +1,6 @@
 
 
-## Question 1
+## Question 1#
 def proportion_of_education(data):
     total_children = len(data)
 
